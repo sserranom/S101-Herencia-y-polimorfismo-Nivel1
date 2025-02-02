@@ -1,4 +1,4 @@
-***Descripción - Enunciado del ejercicio***
+***S101. Herencia y Polimorfismo - Nivel 1***
 
 - Ejercicio 1
 En un grupo de música existen diferentes tipos de instrumentos musicales. Hay instrumentos de viento, cuerda y percusión.
