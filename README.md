@@ -11,3 +11,42 @@ Demuestra que la carga puede ser provocada por la creación de la primera instan
 Crea una clase "Coche" con los atributos: marca, modelo y potencia. La marca debe ser estático final, el modelo estático y la potencia final. Demuestra la diferencia entre los tres. ¿Hay alguno que pueda inicializarse al constructor de la clase?
 Añade dos métodos a la clase "Coche". Un método estático llamado frenar() y otro no estático llamado acelerar(). El método acelerar debe mostrar por consola: "El vehículo está acelerando" y el método frenar() debe mostrar: "El vehículo está frenando". 
 Demuestra cómo invocar el método estático y el no estático desde el main() de la clase principal.
+
+
+***Tecnologías Utilizadas***
+
+-Lenguaje: Java
+-Version : java version "23.0.1" 2024-10-15
+-iDE Utilizado: Eclipse
+
+***Requisitos***
+
+-Software: JDK 17 o superior
+-dependencias: Sin dependencias Externas
+
+***Instalacion***
+
+-Puedes clonar el repositorio en tu equipo local, utilizando los siguientes comando: 
+git clone https://github.com/sserranom/S101-Herencia-y-polimorfismo-Nivel1.git
+Abre el proyecto en tu IDE y ejecuta cada uno de los ejercicios
+el programa imprime en consola el requerimiento de cada uno de los ejercicios.
+
+***Desplieque***
+
+Este proyecto está diseñado para ser ejecutado en un entorno local para fines practicos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
