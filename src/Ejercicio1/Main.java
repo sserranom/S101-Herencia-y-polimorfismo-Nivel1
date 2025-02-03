@@ -1,6 +1,6 @@
 package Ejercicio1;
 
-public class PlayInstrument {
+public class Main {
 
 	public static void main(String[] args) {
 
